@@ -23,6 +23,11 @@ padding: 0;
     height: 100vh;
     width: 100%;
 }
+
+.box .vetrina h2{
+    text-align: center;
+}
+
 /*  fine classe box generica  */
 
 /* inizio box rosso  */
@@ -38,9 +43,6 @@ padding: 0;
     transform: translate(-50%,-50%);
 }
 
-#rosso .vetrina h2{
-    text-align: center;
-}
 
 /* fine box rosso  */
 

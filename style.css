@@ -61,25 +61,33 @@ header{
 }
 
 nav{
-    height: 70px;
+    height: 80px;
     position: absolute;
     right: 0;
     top:0;
+    margin-right: 20px;
 }
 
 
 nav li{
 display: inline-block;
+line-height: 80px;
 }
 
 nav li .btn{
     display: inline-block;
     text-decoration: none;
     color: black;
-    line-height: 70px;
+    line-height: 30px;
     margin-left: 20px;
     background-color: #fff;
     border: 2px solid transparent;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    font-size: 12px;
+    box-shadow: 0px 0px 5px black;
 }
 
 /* fine header  */

@@ -28,6 +28,7 @@ font-family: 'Rubik Mono One', sans-serif;
 
 .box .vetrina h2{
     text-align: center;
+    color: #FFFF00;
 }
 
 .box .vetrina{
@@ -57,5 +58,10 @@ font-family: 'Rubik Mono One', sans-serif;
 /* inizio box giallo  */
 #giallo{
     background-color: #FFFF00;
+
+}
+
+#giallo .vetrina h2{
+    color: #008001;
 }
 /* fine box giallo  */

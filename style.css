@@ -36,8 +36,12 @@ padding: 0;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-
 }
+
+#rosso .vetrina h2{
+    text-align: center;
+}
+
 /* fine box rosso  */
 
 /* inizio box verde  */

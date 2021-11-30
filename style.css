@@ -48,6 +48,21 @@ font-family: 'Rubik Mono One', sans-serif;
 }
 /*  fine classe box generica  */
 
+/* header  */
+
+nav
+
+
+nav li{
+display: inline-block;
+}
+
+nav li .btn{
+    display: inline-block;
+}
+
+/* fine header  */
+
 /* inizio box rosso  */
 #rosso{
     background-color: #FF0000;

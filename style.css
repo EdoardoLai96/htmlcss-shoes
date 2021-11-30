@@ -22,16 +22,20 @@ padding: 0;
 .box{
     height: 100vh;
     width: 100%;
-    position: relative;
 }
 /*  fine classe box generica  */
 
 /* inizio box rosso  */
 #rosso{
     background-color: #FF0000;
+    position: relative;
 }
 
-#rosso .vetrina .foto-scarpa{
+#rosso .vetrina{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
 
 }
 /* fine box rosso  */

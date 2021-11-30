@@ -1,27 +1,44 @@
+/* common  */
+
 * {
 box-sizing: border-box;
 margin: 0;
 padding: 0;
 }
+/* fine common  */
+
+/* contenitore principale  */
 
 .wrapper{
     width: 100%;
     margin: auto;
 }
 
+/* contenitore principale  */
+
+
+/*  classe box generica  */
+
 .box{
     height: 100vh;
     width: 100%;
 }
+/*  fine classe box generica  */
 
+/* inizio box rosso  */
 #rosso{
     background-color: #FF0000;
 }
+/* fine box rosso  */
 
+/* inizio box verde  */
 #verde{
     background-color: #008001;
 }
+/* fine box verde  */
 
+/* inizio box giallo  */
 #giallo{
     background-color: #FFFF00;
 }
+/* fine box giallo  */
